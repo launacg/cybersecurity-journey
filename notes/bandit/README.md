@@ -25,6 +25,20 @@ A lo largo de Bandit estoy practicando:
 - Fundamentos de Git
 - Resolución de problemas con un enfoque práctico
 
+## 🔌 Cómo conectarse
+
+Cada nivel se conecta con el mismo patrón, cambiando el número de usuario:
+
+ssh banditN@bandit.labs.overthewire.org -p 2220
+
+Donde `N` es el número del nivel actual (ej. `bandit0`, `bandit1`...).
+La contraseña es la que se obtuvo al resolver el nivel anterior
+(el nivel 0 usa la contraseña `bandit0`).
+
+Para salir de la sesión actual antes de conectarte al siguiente nivel:
+
+exit
+
 ## 📂 Estructura
 
 ```text
@@ -51,6 +65,15 @@ Cada nivel incluye:
 - **Linux Man Pages:** https://man7.org/linux/man-pages/
 - **TLDR Pages:** https://tldr.sh/
 - **ExplainShell:** https://explainshell.com/
+
+
+## 📈 Progreso
+
+| Nivel | Estado |
+|---|---|
+| 0 → 1 | ✅ |
+| 1 → 2 | ✅ |
+| 2 → 3 | 🔲 |
 
 ## 📝 Sobre estas notas
 
