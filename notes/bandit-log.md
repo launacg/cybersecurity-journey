@@ -1,4 +1,4 @@
-# 🧭 Bandit log
+# Bandit log
 
 ## 🗺️ Qué es esto
 
