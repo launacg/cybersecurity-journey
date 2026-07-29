@@ -44,11 +44,10 @@ exit
 ```text
 bandit/
 ├── README.md
-├── level-00-01.md
-├── level-01-02.md
-├── level-02-03.md
+├── level-00.md
+├── level-01-.md
 ├── ...
-└── level-33-34.md
+└── level-33.md
 ```
 
 Cada nivel incluye:
@@ -63,7 +62,6 @@ Cada nivel incluye:
 
 - **OverTheWire:** https://overthewire.org/wargames/bandit/
 - **Linux Man Pages:** https://man7.org/linux/man-pages/
-- **TLDR Pages:** https://tldr.sh/
 - **ExplainShell:** https://explainshell.com/
 
 
@@ -71,9 +69,9 @@ Cada nivel incluye:
 
 | Nivel | Estado |
 |---|---|
-| 0 → 1 | ✅ |
-| 1 → 2 | ✅ |
-| 2 → 3 | 🔲 |
+| 0  | ✅ |
+| 1  | ✅ |
+| 2  | 🔲 |
 
 ## 📝 Sobre estas notas
 
