@@ -1,10 +1,9 @@
-# 🏴 OverTheWire: Bandit
-
+# 🏴 OverTheWire: Bandit - 
 > Aprendiendo los fundamentos de Linux y ciberseguridad a través de retos prácticos.
 
 ## 📖 Descripción
 
-Esta carpeta reúne mis apuntes mientras completo **OverTheWire: Bandit**, un wargame diseñado para desarrollar habilidades fundamentales en Linux, línea de comandos y conceptos básicos de seguridad.
+Esta carpeta reúne mis apuntes mientras completo **OverTheWire: Bandit**(https://overthewire.org/wargames/bandit/) — sitio oficial del wargame. Diseñado para desarrollar habilidades fundamentales en Linux, línea de comandos y conceptos básicos de seguridad.
 
 El objetivo de estas notas no es solo documentar las soluciones, sino registrar el proceso de aprendizaje, los comandos utilizados y las lecciones obtenidas en cada nivel.
 
