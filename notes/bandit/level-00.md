@@ -6,7 +6,7 @@ Conectarme por primera vez al servidor de Bandit usando SSH y leer el
 contenido de un archivo de texto ubicado en el directorio home, donde
 se encuentra la contraseña del siguiente nivel.
 
-
+<img width="613" height="512" alt="image" src="https://github.com/user-attachments/assets/95d23a68-5924-450d-b097-f5c53275114d" />
 
 ## 💡 Conceptos aprendidos
 
@@ -27,6 +27,7 @@ se encuentra la contraseña del siguiente nivel.
 - `ls` — lista los archivos del directorio actual.
 - `cat` — muestra el contenido completo de un archivo.
 
+
 ## 📝 Notas personales
 
 El nivel 0 usa una credencial pública de inicio (no es un reto que se
@@ -35,6 +36,8 @@ resuelve, es el punto de partida del juego):
 - La contraseña no se muestra en pantalla mientras se escribe (ni con
 asteriscos ni puntos): es el comportamiento normal de las terminales
 Linux por seguridad, no un error.
+
+
 
 ## 📚 Recursos de consulta
 
