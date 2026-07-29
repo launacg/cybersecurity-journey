@@ -1,0 +1,63 @@
+# 🏴 OverTheWire: Bandit
+
+> Aprendiendo los fundamentos de Linux y ciberseguridad a través de retos prácticos.
+
+## 📖 Descripción
+
+Esta carpeta reúne mis apuntes mientras completo **OverTheWire: Bandit**, un wargame diseñado para desarrollar habilidades fundamentales en Linux, línea de comandos y conceptos básicos de seguridad.
+
+El objetivo de estas notas no es solo documentar las soluciones, sino registrar el proceso de aprendizaje, los comandos utilizados y las lecciones obtenidas en cada nivel.
+
+## 🎯 Objetivos de aprendizaje
+
+A lo largo de Bandit estoy practicando:
+
+- Navegación y manejo del sistema de archivos en Linux
+- Permisos y propietarios de archivos
+- Búsqueda y manipulación de archivos
+- Comandos esenciales de la terminal
+- Redirección de entrada y salida (`>`, `<`, `|`)
+- Codificación y decodificación de datos
+- Compresión y descompresión de archivos
+- Conexiones remotas mediante SSH
+- Servicios de red y herramientas como `nc`
+- Gestión de procesos
+- Fundamentos de Git
+- Resolución de problemas con un enfoque práctico
+
+## 📂 Estructura
+
+```text
+bandit/
+├── README.md
+├── level-00-01.md
+├── level-01-02.md
+├── level-02-03.md
+├── ...
+└── level-33-34.md
+```
+
+Cada nivel incluye:
+
+- 🎯 Objetivo
+- 💡 Conceptos aprendidos
+- ⚙️ Comandos utilizados
+- 📝 Notas personales
+- 📚 Recursos de consulta
+
+## 🔗 Recursos útiles
+
+- **OverTheWire:** https://overthewire.org/wargames/bandit/
+- **Linux Man Pages:** https://man7.org/linux/man-pages/
+- **TLDR Pages:** https://tldr.sh/
+- **ExplainShell:** https://explainshell.com/
+
+## 📝 Sobre estas notas
+
+Este repositorio forma parte de mi proyecto **Cybersecurity Journey**, donde documento mi aprendizaje en ciberseguridad de manera pública.
+
+Las notas reflejan mi proceso de estudio y están pensadas como material de consulta para reforzar conceptos y revisar comandos cuando sea necesario.
+
+Si estás resolviendo Bandit por tu cuenta, te recomiendo intentar cada nivel antes de consultar estas notas. La mayor parte del aprendizaje proviene de investigar, experimentar y comprender por qué funciona cada solución.
+
+¡Feliz aprendizaje! 🚀
