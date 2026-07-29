@@ -18,9 +18,9 @@ se encuentra la contraseña del siguiente nivel.
 
 ## ⚙️ Comandos utilizados
 
-ssh bandit0@bandit.labs.overthewire.org -p 2220
-ls
-cat readme
+`ssh bandit0@bandit.labs.overthewire.org -p 2220`
+`ls`
+`cat readme`
 
 
 - `ssh` — inicia la conexión remota al servidor.
