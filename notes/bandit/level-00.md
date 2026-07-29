@@ -6,6 +6,8 @@ Conectarme por primera vez al servidor de Bandit usando SSH y leer el
 contenido de un archivo de texto ubicado en el directorio home, donde
 se encuentra la contraseña del siguiente nivel.
 
+
+
 ## 💡 Conceptos aprendidos
 
 - SSH (Secure Shell) permite conectarse de forma remota y segura a otra
@@ -27,7 +29,10 @@ cat readme
 
 ## 📝 Notas personales
 
-La contraseña no se muestra en pantalla mientras se escribe (ni con
+El nivel 0 usa una credencial pública de inicio (no es un reto que se
+resuelve, es el punto de partida del juego):
+- contraseña: `bandit0`
+- La contraseña no se muestra en pantalla mientras se escribe (ni con
 asteriscos ni puntos): es el comportamiento normal de las terminales
 Linux por seguridad, no un error.
 
