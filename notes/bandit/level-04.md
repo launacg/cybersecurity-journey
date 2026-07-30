@@ -9,7 +9,7 @@ contenido.
 ## 💡 Conceptos aprendidos
 
 - No todos los archivos con extensión o nombre similar contienen el
-  mismo tipo de datos — algunos pueden ser binarios o datos no legibles,
+  mismo tipo de datos: algunos pueden ser binarios o datos no legibles,
   aunque el nombre no lo indique.
 - El comando `file` inspecciona el contenido real de un archivo y
   dice qué tipo de dato es (texto ASCII, binario, imagen, etc.), sin
@@ -21,16 +21,14 @@ contenido.
 ## ⚙️ Comandos utilizados
 
 **Lo que usé para resolverlo (ensayo y error):**
-ls
-cat ./-file00
-cat ./-file01
-cat ./-file02
+`ls`
+`cat ./-file00` `cat ./-file01` 
 ...
 
 
 **Forma más eficiente que aprendí después:**
 
-file ./-file*
+`file ./-file*`
 
 Esto identifica de inmediato cuál archivo es "ASCII text" (legible),
 evitando revisar los nueve uno por uno.
