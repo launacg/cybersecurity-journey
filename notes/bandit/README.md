@@ -70,7 +70,7 @@ Cada nivel incluye:
 |---|---|
 | 0  | ✅ |
 | 1  | ✅ |
-| 2  | 🔲 |
+| 2  | ✅ |
 
 ## 📝 Sobre estas notas
 
