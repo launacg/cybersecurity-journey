@@ -37,6 +37,3 @@ después de los puntos.
 ## 📚 Recursos de consulta
 
 - [explainshell.com](https://explainshell.com/) — para ver qué hace `ls -a` en detalle
-Ya te dejé el level-03.md completo un poco más arriba, en el mismo mensaje donde documentamos el nivel 2 — con el objetivo de inhere, los conceptos de archivos ocultos (ls -a, . y ..), los comandos y las notas.
-
-¿Te refieres a que no lo ves, quieres que te lo repita aquí, o ya lo subiste y quieres seguir con el nivel 4 en la terminal?
