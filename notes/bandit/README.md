@@ -118,7 +118,6 @@ Cada nivel incluye:
 | 31 | 🔲 |
 | 32 | 🔲 |
 | 33 | 🔲 |
-| 34 | 🔲 |
 
 ## 📝 Sobre estas notas
 
