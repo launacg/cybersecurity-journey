@@ -1,6 +1,6 @@
 # cybersecurity-journey
 
-Bitácora pública de mi transición de Customer Support en fintech/cripto hacia ciberseguridad
+Bitácora pública de mi transición hacia ciberseguridad
 
 ## por qué existe este repo
 
